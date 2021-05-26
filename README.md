@@ -1,5 +1,13 @@
-### Hi there 👋
+## Hi! I am christian 👋
 
+### 🔭 I’m currently working on:
+ - Eshop
+ - Blog
+ 
+### 🌱 I’m currently learning:
+ - React
+ 
+ 
 <!--
 **chris92vr/chris92vr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
