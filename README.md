@@ -1,6 +1,6 @@
 # Hi! I am christian <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Welcome to my page!
-I'm Fullstack developer from 🇮🇹<b>Verona, Italy</b>, currently living in 🇳🇱<b> Amsterdam, Netherlands</b>. 
+I'm Fullstack developer from 🇮🇹<b> Verona, Italy</b>, currently living in 🇳🇱<b> Amsterdam, Netherlands</b>. 
 
 ## 🔭 I’m currently working on:
  - Eshop website
