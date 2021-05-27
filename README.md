@@ -27,7 +27,7 @@ I'm Fullstack developer from 🇮🇹<b> Verona, Italy</b>, currently living in 
 
 <!-- Icons -->
 
-[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (Christian Garofoli LinkedIn profile)
 
 
 <!-- Links to your social media accounts -->
