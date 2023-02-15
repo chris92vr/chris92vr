@@ -1,15 +1,16 @@
 # Hi! I am christian <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Welcome to my page!<br>
-I'm Fullstack developer from 🇮🇹<b> Verona, Italy</b>, currently living in 🇳🇱<b> Zaandam, Netherlands</b>. 
+I'm Fullstack developer from 🇮🇹<b> Verona, Italy</b>, currently living in 🇳🇱<b> Den Bosch, Netherlands</b>. 
 
 ## 🔭 I’m currently working on:
- - Eshop website
- - Blog
+ - Encrypted chat
+ - Highlight web app
  
 ## 🌱 I’m currently learning:
  - React
  - Typescript
- - Angular
+ - Kotlin
+ - Android developing
  
 ## Languages I Know
 ![](https://camo.githubusercontent.com/121aa1fa41e2b74043afd712a970cd5b89b55d695e989d277b226ef8372c5453/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d48544d4c266d6573736167653d3526636f6c6f723d453334463236267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35)
@@ -20,19 +21,37 @@ I'm Fullstack developer from 🇮🇹<b> Verona, Italy</b>, currently living in 
 ![](https://camo.githubusercontent.com/0b11d1f8772906ddc8e0b1544c8f5b493ac93c9c6d9f887ece2ff2770023db02/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d466c61736b267374796c653d666f722d7468652d6261646765266d6573736167653d312e312e3226636f6c6f723d313831373137266c6f676f3d666c61736b)
 ![](https://camo.githubusercontent.com/5b7c00489a9587fbbe2384f478aabfd7fd77c10f64b086e1e208c3cb0acbd5b4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d446a616e676f267374796c653d666f722d7468652d6261646765266d6573736167653d332e302e3826636f6c6f723d303932453230266c6f676f3d646a616e676f)
 
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 <br>
 <br>
 
 ### You can find me on [![LinkedIn][1.1]][1].
 
+
+
+
+
+
 <!-- Icons -->
 
 [1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (Christian Garofoli LinkedIn profile)
 
+[1.2]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg
+(Christian Garofoli GMAIL)
+
 
 <!-- Links to your social media accounts -->
 [1]: https://www.linkedin.com/in/christian-garofoli/
+[2]: mailto:garofolichristian@gmail.com
 <!--
+
 **chris92vr/chris92vr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
