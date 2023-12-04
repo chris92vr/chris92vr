@@ -1,6 +1,6 @@
 # Hi! I am christian <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Welcome to my page!<br>
-I'm Fullstack developer from 🇮🇹<b> Verona, Italy</b>, currently living in 🇳🇱<b> Den Bosch, Netherlands</b>. 
+I'm a Fullstack developer from 🇮🇹<b> Verona, Italy</b>, currently living in 🇳🇱<b> Den Bosch, Netherlands</b>. 
 
 ## 🔭 I’m currently working on:
  - Encrypted chat
@@ -8,9 +8,8 @@ I'm Fullstack developer from 🇮🇹<b> Verona, Italy</b>, currently living in 
  
 ## 🌱 I’m currently learning:
  - React
- - Typescript
- - Kotlin
- - Android developing
+ - Golang
+ - Kubernetes
  
 ## Languages I Know
 ![](https://camo.githubusercontent.com/121aa1fa41e2b74043afd712a970cd5b89b55d695e989d277b226ef8372c5453/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d48544d4c266d6573736167653d3526636f6c6f723d453334463236267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35)
