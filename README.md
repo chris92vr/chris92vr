@@ -4,7 +4,6 @@ I'm a Fullstack developer from 🇮🇹<b> Verona, Italy</b>, currently living i
 
 ## 🔭 I’m currently working on:
  - Encrypted chat
- - Highlight web app
  
 ## 🌱 I’m currently learning:
  - React
