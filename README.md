@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/>
+  <img src="(https://media.giphy.com/media/gFmkpNCar7TSoauRUs/giphy.gif" width="100"/>
  
 </div>
 <div align="center">
@@ -14,10 +14,7 @@
 I'm a Fullstack developer from 🇮🇹<b> Verona, Italy</b>, currently living in 🇳🇱<b> Den Bosch, Netherlands</b>. </h3>
 
 
-## 🔭 I’m currently working on:
- - Advanced Chat
- - Artificial Intelligence Bot
-  
+ 
 ## Languages I Know
 - Python
 - Javascript
@@ -31,6 +28,10 @@ I'm a Fullstack developer from 🇮🇹<b> Verona, Italy</b>, currently living i
 - React
 - Prisma
 - SanityCMS
+
+## 🔭 I’m currently working on:
+ - Advanced Chat
+ - Artificial Intelligence Bot
 
 <br>
 <be>
