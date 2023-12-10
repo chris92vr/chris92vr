@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/UUBYepX4WSiNFf8GOT/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/>
  
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=chris92vr&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1>
