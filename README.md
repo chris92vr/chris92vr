@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/IPhL5ZvzvcGVWml71R/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/UUBYepX4WSiNFf8GOT/giphy.gif" width="100"/>
  
 </div>
-<div id"counter">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -10,12 +10,9 @@
   hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
 </h1>
-<h3>Hi! I am Christian <br>
+<h3>I am Christian. <br>
 I'm a Fullstack developer from 🇮🇹<b> Verona, Italy</b>, currently living in 🇳🇱<b> Den Bosch, Netherlands</b>. </h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/UUBYepX4WSiNFf8GOT/giphy.gif" width="600" height="300"/>
-</div>
 
 ## 🔭 I’m currently working on:
  - Advanced Chat
