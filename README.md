@@ -1,6 +1,18 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Welcome to my page!<be> Hi! I am christian 
-I'm a Fullstack developer from 🇮🇹<b> Verona, Italy</b>, currently living in 🇳🇱<b> Den Bosch, Netherlands</b>. 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hOXPs0xOfNiu4Us8Yy/giphy.gif" width="100"/>
+ <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
+
+<h1>
+  hey there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+</h1>
+<h3>Hi! I am Christian <br>
+I'm a Fullstack developer from 🇮🇹<b> Verona, Italy</b>, currently living in 🇳🇱<b> Den Bosch, Netherlands</b>. </h3>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/gSMG3DgIoF9uhthPc1/giphy.gif" width="600" height="300"/>
+</div>
 
 ## 🔭 I’m currently working on:
  - Advanced Chat
