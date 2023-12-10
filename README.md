@@ -1,6 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hOXPs0xOfNiu4Us8Yy/giphy.gif" width="100"/>
- <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://media.giphy.com/media/IPhL5ZvzvcGVWml71R/giphy.gif" width="100"/>
+ 
+</div>
+<div id"counter">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1>
@@ -11,7 +14,7 @@
 I'm a Fullstack developer from 🇮🇹<b> Verona, Italy</b>, currently living in 🇳🇱<b> Den Bosch, Netherlands</b>. </h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/gSMG3DgIoF9uhthPc1/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/UUBYepX4WSiNFf8GOT/giphy.gif" width="600" height="300"/>
 </div>
 
 ## 🔭 I’m currently working on:
